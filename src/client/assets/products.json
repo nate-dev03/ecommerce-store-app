@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Casual Shirt",
+    "description": "Slim fit casual shirt made from 100% cotton.",
+    "price": 39.99,
+    "currency": "USD",
+    "image": "./assets/p1.webp",
+  },
+  {
+    "id": 2,
+    "name": "Women's Summer Dress",
+    "description": "Floral print summer dress with adjustable straps.",
+    "price": 50,
+    "currency": "USD",
+    "image": "./assets/p2.webp",
+  },
+  {
+    "id": 3,
+    "name": "Women's Summer Dress",
+    "description": "Floral print summer dress with adjustable straps.",
+    "price": 50,
+    "currency": "USD",
+    "image": "./assets/p2.webp",
+  },
+]
